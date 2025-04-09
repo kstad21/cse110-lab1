@@ -1,5 +1,5 @@
 # Katy Stadler's User Page
-***CSE110 Lab 1 _[(my goals)](#110-goals)_***
+***CSE110 Lab 1 [(my goals)](#110-goals)***
 Hello! I am a 3rd year Cognitive Science and Computer Science student at UCSD. I am interested in the way people think and how we can model this computationally. I also love sports, specifically the Warriors and Niners (rip). Here's a link to my [personal site](https://kstad21.github.io/).
 
 Here's a quote from my favorite player, Draymond Green:
